@@ -1,9 +1,7 @@
 venv/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.db
-*.sqlite3
+chroma_langchain_db/
+temp_uploads/
+temp.pdf
 .env
-.DS_Store
+
